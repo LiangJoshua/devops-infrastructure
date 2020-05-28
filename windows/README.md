@@ -13,6 +13,9 @@
 ### Slack
 * [Slack](https://slack.com/)
 
+### Jira
+* [Jira](https://jira.atlassian.com/)
+
 ### Node, nvm, npm
 * [Node.js](https://nodejs.org/)
 * [NVM](https://github.com/nvm-sh/nvm)
@@ -21,7 +24,7 @@
 ## Full setup
 
 ### Step 1:
-Request permission through Joshua Liang to github and slack 
+Request permission through Joshua Liang for github, slack, and jira
 
 ### Step 2:
 Clone the calisthantics-web repo
