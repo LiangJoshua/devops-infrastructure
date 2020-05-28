@@ -26,6 +26,9 @@ xcode-select --install
 ## Full setup
 
 ### Step 1:
+Request permission through Joshua Liang to github and slack 
+
+### Step 2:
 Clone the calisthantics-web repo
 Each line is a separate command:
 
