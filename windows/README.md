@@ -18,7 +18,7 @@
 
 ### Node, nvm, npm
 * [Node.js](https://nodejs.org/)
-* [NVM](https://github.com/nvm-sh/nvm)
+* [NVM](https://github.com/coreybutler/nvm-windows)
 * [NPM](https://www.npmjs.com/get-npm)
 
 ## Full setup
