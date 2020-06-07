@@ -9,6 +9,7 @@ xcode-select --install
 
 ### IDE
 * [Vistual Studio Code](https://code.visualstudio.com/download)
+* [PyCharm](https://www.jetbrains.com/pycharm/download/)
 
 * [Git](https://git-scm.com/downloads) (to install Git)
 * [Github](https://github.com/)
