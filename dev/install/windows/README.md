@@ -2,24 +2,18 @@
 
 ## Requirements
 
-### Github
+### IDE
+* [Vistual Studio Code](https://code.visualstudio.com/download)
+* [PyCharm](https://www.jetbrains.com/pycharm/download/)
+
 * [Git](https://git-scm.com/downloads) (to install Git)
 * [Github](https://github.com/)
-
-### IDE
-#### Visual Studio Code
-* [Vistual Studio Code](https://code.visualstudio.com/download)
-
-### Slack
 * [Slack](https://slack.com/)
-
-### Jira
 * [Jira](https://jira.atlassian.com/)
-
-### Node, nvm, npm
 * [Node.js](https://nodejs.org/)
-* [NVM](https://github.com/coreybutler/nvm-windows)
+* [NVM](https://github.com/nvm-sh/nvm)
 * [NPM](https://www.npmjs.com/get-npm)
+* [Python 3.8.3](https://www.python.org/downloads/)
 
 ## Full setup
 
