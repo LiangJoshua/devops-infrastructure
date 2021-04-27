@@ -36,10 +36,10 @@ Fire up the [command palette](https://code.visualstudio.com/docs/getstarted/user
 If you have trouble using the command palette just add a `settings.json` file with the content above inside your `.vscode` folder
 
 ## Directory Layout
-This should be your final directory layout for calisthantics-web. If it doesn't match, you possibly made an error. Feel free to contact Joshua Liang for assistance. 
+This should be your final directory layout for 40percent-web. If it doesn't match, you possibly made an error. Feel free to contact Joshua Liang for assistance. 
 
 ```
-├── calisthantics-web/             # Parent app directory
+├── 40percent-web/             # Parent app directory
 │   ├── .vscode/                   # Visual studio code parent directory
 │   |   ├── extensions.json        # Visual studio code extensions
 │   |   └── settings.json          # Visual studio code settings
