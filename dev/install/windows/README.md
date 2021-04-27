@@ -4,7 +4,7 @@
 
 ### IDE
 * [Vistual Studio Code](https://code.visualstudio.com/download)
-* [PyCharm](https://www.jetbrains.com/pycharm/download/)
+* [IntelliJ](https://www.jetbrains.com/idea/download/#section=windows)
 
 * [Git](https://git-scm.com/downloads) (to install Git)
 * [Github](https://github.com/)
