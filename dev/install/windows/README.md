@@ -33,10 +33,10 @@ git clone https://github.com/LiangJoshua/forty-percent-web.git
 Follow the README.md instructions to finish setting up forty-percent-web for development
 
 ### Step 3:
-Clone the forty-percent repo into your forty-percent-workspace
+Clone the forty-percent-api repo into your forty-percent-workspace
 
 ```
-git clone https://github.com/LiangJoshua/forty-percent
+git clone https://github.com/LiangJoshua/forty-percent-api
 ```
 
 Follow the README.md instructions to finish setting up forty-percent for development
@@ -53,7 +53,7 @@ This should be your final directory layout. If it doesn't match, you possibly ma
 
 ```
 ├── forty-percent-workspace/       # Parent app directory
-│   ├── forty-percent/             # Java back end
+│   ├── forty-percent-api/         # Java spring back end
 │   ├── forty-percent-web/         # React front end
 │   └── devops-infrastructure/     # Development and infrastructure setup instructions
 ```
