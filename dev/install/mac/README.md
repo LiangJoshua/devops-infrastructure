@@ -18,7 +18,6 @@ xcode-select --install
 * [Node.js](https://nodejs.org/)
 * [NVM](https://github.com/nvm-sh/nvm)
 * [NPM](https://www.npmjs.com/get-npm)
-* [Python 3.8.3](https://www.python.org/downloads/)
 
 ## Full setup
 
